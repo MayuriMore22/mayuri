@@ -12,7 +12,6 @@ $('#btn-search').click(function(e){
 
 
 
-
 $('nav').hide();
 
 
@@ -22,7 +21,6 @@ $('#menu-bar').click(function(e){
     $('nav').toggle();
 
 });
-
 
 
 });
